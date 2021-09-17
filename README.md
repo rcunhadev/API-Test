@@ -1,4 +1,4 @@
-# API Test Nexxys
+# API Teste Banco Mercedes Benz e Nexxys
  Teste dev API - Criado por Renato Cunha
  
  Solution contendo um projeto de API e um projeto de teste de unidade com as seguintes propriedades:
